@@ -2,7 +2,7 @@
   Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">  I'm Tarcizio, Web Developer :computer:<br>
 </h2>
 <br>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" align="right" /><br>
 
  <h2 align="left">
   👨🏻‍💻 About Me:
@@ -36,8 +36,10 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-<div><a href="https://github.com/tarciziofcipriano"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarciziofcipriano&layout=compact&langs_count=7&theme=dracula"/></div>
+
+<div align="center"><a href="https://github.com/tarciziofcipriano"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarciziofcipriano&layout=compact&langs_count=7&theme=dracula"/></div>
 <br>
+  
 <h2 align="left">
   :heart: Let's get connected:
  </h2>
