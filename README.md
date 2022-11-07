@@ -2,18 +2,22 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Tarcizio, Web Developer :computer: <br>
 </h2>
+<br>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right" />
 
-<br><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right" />
-
-<h3 align="left">👨🏻‍💻 About Me:</h3>
+ <h2 align="left">
+  👨🏻‍💻 About Me:
+ </h2>
 
 - :computer: Developer for more than 3 years in the Front-End area 
 - :hourglass_flowing_sand:  Exploring the Back-End in a few moments
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Degree in Systems Analysis and Development and a postgraduate degree in Strategic Analysis and Data Science
  </abc>
-
-<br><h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
+ <br>
+ <h2 align="left">
+  :hammer_and_wrench: Technologies and Tools I use:
+ </h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,7 +37,9 @@
 
 
 <div><a href="https://github.com/tarciziofcipriano"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarciziofcipriano&layout=compact&langs_count=7&theme=dracula"/></div>
-
-<br><h3 align="left">:heart: Let's get connected:</h3>
+<br>
+<h2 align="left">
+  :heart: Let's get connected:
+ </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-tarciziofcipriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcizio-fernandes-cipriano-88bb98146/)](https://www.linkedin.com/in/tarcizio-fernandes-cipriano-88bb98146/)
