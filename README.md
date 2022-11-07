@@ -15,6 +15,7 @@
 - :man_technologist: Degree in Systems Analysis and Development and a postgraduate degree in Strategic Analysis and Data Science
  </abc>
  <br>
+ <br>
  <h2 align="left">
   :hammer_and_wrench: Technologies and Tools I use:
  </h2>
