@@ -8,7 +8,7 @@
   👨🏻‍💻 About Me:
  </h2>
 
-- :computer: Developer for more than 3 years in the Front-End area 
+- :computer: Front End Developer for over 3 years 
 - :hourglass_flowing_sand:  Exploring the Back-End in a few moments
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Degree in Systems Analysis and Development and a postgraduate degree in Strategic Analysis and Data Science
